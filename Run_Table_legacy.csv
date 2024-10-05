@@ -1,0 +1,12 @@
+__run_id,__done,model,dataset,enveriment,execution_time(h),usage(%),memory_usage(GB),energy_usage(Wh)
+run_01,DONE,Float32,GLUE,AMD GPU,1.5,99,21.36,490.5
+run_02,DONE,Float32,GLUE,AMD GPU,3.3,99,21.36,1079.1
+run_03,DONE,Float32,Others,AMD GPU,7.3,99,21.36,2387.1
+run_04,DONE,Float16,GLUE,AMD GPU,1.6,99,17.76,523.2
+run_05,DONE,Float16,GLUE,AMD GPU,1.6,99,17.76,523.2
+run_06,DONE,Float16,GLUE,AMD GPU,1.6,99,17.76,523.2
+run_07,DONE,Float16,Others,AMD GPU,1.6,99,17.76,523.2
+run_08,DONE,Float16,Others,AMD GPU,1.6,99,17.76,523.2
+run_09,DONE,Int8,GLUE,AMD GPU,1,99,17.76,327
+run_10,DOING,Int4,GLUE,AMD GPU,,,14.16,
+run_11,DOING,Int8,Others,CPU,,,,
